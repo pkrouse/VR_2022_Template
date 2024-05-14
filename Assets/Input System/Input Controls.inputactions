@@ -1,0 +1,34 @@
+{
+    "name": "Input Controls",
+    "maps": [
+        {
+            "name": "Player Action Map",
+            "id": "8fa11d2b-ae35-4a0b-a683-650dcd36bea5",
+            "actions": [
+                {
+                    "name": "Thumbstick",
+                    "type": "Value",
+                    "id": "23d94f73-8680-4208-9172-bf47a3a7fbe9",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "932017a8-50d0-4a1b-92d4-1972fc0d59cb",
+                    "path": "<XRController>{RightHand}/thumbstick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Thumbstick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
